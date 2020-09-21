@@ -106,7 +106,7 @@ Boot from the latest <a href="https://www.archlinux.org/download/">original Arch
 ```
 
 ### Video
-[![asciicast](https://asciinema.org/a/mVTTp5CIo16S3EKAFW4U4Bdq8.svg)](https://asciinema.org/a/mVTTp5CIo16S3EKAFW4U4Bdq8)
+[![asciicast](https://asciinema.org/a/360876.svg)](https://asciinema.org/a/360876)
 
 ### Arch Linux Installation Media
 
