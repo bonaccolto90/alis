@@ -64,7 +64,7 @@ Internet connection is required, with wireless WIFI connection see <a href="http
 ```
 # # Start the system with lastest Arch Linux installation media
 # loadkeys [keymap]
-# curl https://raw.githubusercontent.com/bonaccolto90/alis/master/download.sh | bash, or with URL shortener curl -sL shorturl.at/otwGS | bash
+# curl https://raw.githubusercontent.com/bonaccolto90/alis/master/download.sh | bash, or with URL shortener curl -sL https://bit.ly/2FDyzuV | bash
 # # Edit alis.conf and change variables values with your preferences
 # vim alis.conf
 # # Start
@@ -78,7 +78,7 @@ As another form of log.
 ```
 # # Start the system with lastest Arch Linux installation media
 # loadkeys [keymap]
-# curl https://raw.githubusercontent.com/bonaccolto90/alis/master/download.sh | bash, or with URL shortener curl -sL shorturl.at/otwGS | bash
+# curl https://raw.githubusercontent.com/bonaccolto90/alis/master/download.sh | bash, or with URL shortener curl -sL https://bit.ly/2FDyzuV | bash
 # ./alis-asciinema.sh
 # # Edit alis.conf and change variables values with your preferences
 # vim alis.conf
@@ -96,7 +96,7 @@ Boot from the latest <a href="https://www.archlinux.org/download/">original Arch
 ```
 # # Start the system with lastest Arch Linux installation media
 # loadkeys [keymap]
-# curl https://raw.githubusercontent.com/bonaccolto90/alis/master/download.sh | bash, or with URL shortener curl -sL shorturl.at/otwGS | bash
+# curl https://raw.githubusercontent.com/bonaccolto90/alis/master/download.sh | bash, or with URL shortener curl -sL https://bit.ly/2FDyzuV | bash
 # # Edit alis-recovery.conf and change variables values with your last installation with alis
 # vim alis-recovery.conf
 # # Optional asciinema video
